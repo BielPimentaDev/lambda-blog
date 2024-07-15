@@ -13,7 +13,7 @@ url https://reactjs.com.
 
 export default function page() {
 	return (
-		<main className='max-w-7xl mx-auto py-24 '>
+		<main className='max-w-7xl mx-auto lg:py-24 px-6 py-10'>
 			<article className='mx-auto w-full max-w-2xl format format-sm sm:format-base lg:format-lg format-blue dark:format-invert'>
 				<header className='mb-4 lg:mb-6 not-format'>
 					<address className='flex items-center mb-6 not-italic'>
