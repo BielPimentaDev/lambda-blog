@@ -34,9 +34,7 @@ export default function page() {
 									Graphic Designer, educator & CEO Flowbite
 								</p>
 								<p className='text-base text-gray-500 dark:text-gray-400'>
-									<time datetime='2022-02-08' title='February 8th, 2022'>
-										Feb. 8, 2022
-									</time>
+									<p>Feb. 8, 2022</p>
 								</p>
 							</div>
 						</div>
