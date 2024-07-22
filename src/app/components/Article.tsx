@@ -13,14 +13,14 @@ export default function Article() {
 					className='w-full h-54 brightness-90'
 				/>
 
-				<p className='inline-flex text-sm text-gray-500 items-center text-primary-600 dark:text-primary-500 hover:underline'>
+				<p className='inline-flex text-sm text-gray-500 items-center text-primary-600  hover:underline'>
 					20.08.22
 				</p>
 
-				<h2 className=' text-2xl font-bold tracking-tight text-gray-900 dark:text-white'>
+				<h2 className=' text-2xl font-bold tracking-tight text-gray-900 '>
 					<a>How to quic deploy a static website</a>
 				</h2>
-				<p className=' font-light text-gray-500 dark:text-gray-400 w-full text-sm'>
+				<p className=' font-light text-gray-500  w-full text-sm'>
 					Progressively incentivize cooperative syste through technically sound
 					functionalities. Credibly productivate seamless{' '}
 				</p>
@@ -28,7 +28,7 @@ export default function Article() {
 					<p className='text-gray-500 font-semibold'>Guilherme Pimenta</p>
 					<a
 						href='#'
-						className='text-black font-bold inline-flex items-center text-primary-600 dark:text-primary-500 hover:underline'>
+						className='text-black font-bold inline-flex items-center text-primary-600  hover:underline'>
 						Read more
 						{/* <svg
 						className='ml-2 w-4 h-4'
